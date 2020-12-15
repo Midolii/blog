@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>日常生活文章页面测试</title>
+    <url>/posts/242ee797/</url>
+    <content><![CDATA[<h2 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h2><ul>
+<li>There&quot;&quot;&#39;&#39;“’s some interesting thing</li>
+<li>【】</li>
+<li>{}</li>
+<li>[]</li>
+<li>()</li>
+<li>;</li>
+<li>:</li>
+<li>；</li>
+<li>：</li>
+<li>&lt;&gt;</li>
+<li>《》</li>
+<li>、</li>
+<li>？</li>
+<li>?</li>
+<li>/</li>
+<li>|</li>
+<li>\</li>
+<li>.</li>
+<li>`</li>
+<li>~</li>
+<li>·</li>
+<li>~</li>
+<li>! @ # $ % ^ &amp; *</li>
+<li>！@ # ￥ % …… &amp; *</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日常生活</category>
+      </categories>
+      <tags>
+        <tag>闲谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>游戏分类测试文章</title>
+    <url>/posts/4ced60da/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>游戏相关</category>
+      </categories>
+  </entry>
+  <entry>
     <title>你好，世界</title>
     <url>/posts/acf5da54/</url>
     <content><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2><ul>
@@ -12,18 +57,6 @@
       </categories>
       <tags>
         <tag>闲谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>TEST</title>
-    <url>/posts/eeea93b8/</url>
-    <content><![CDATA[<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line">...</span><br><span class="line">...</span><br><span class="line">...</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Test</category>
-      </categories>
-      <tags>
-        <tag>Test</tag>
       </tags>
   </entry>
 </search>
