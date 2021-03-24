@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>一些md写作技巧</title>
-    <url>/posts/250b5c3b/</url>
-    <content><![CDATA[<div class="note default"><p>md的一些写作方式</p>
-</div>
-
+    <title>找工作的准备(一)</title>
+    <url>/posts/824df8ce/</url>
+    <content><![CDATA[<h2 id="危机感来袭"><a href="#危机感来袭" class="headerlink" title="危机感来袭"></a>危机感来袭</h2><blockquote>
+<p>20210323, 大二下学期, 由于身边的同学在这学期或者上学期就开始陆陆续续报班, 让我产生了危机感。</p>
+</blockquote>
+<p>因此, 今天开始对找工作进行准备;</p>
 <a id="more"></a>
 
-<div class="note default"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-<div class="note primary"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-<div class="note success"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-<div class="note info"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-<div class="note warning"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-<div class="note danger"><p><strong>Content (md partial supported)</strong> </p>
-</div>
-
-
-<p><font size=6 > 这里输入文字，自定义大小 </font></p>
-<p><font color="#123456"> 这里输入文字，自定义颜色的字体 </font></p>
-<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 -->
-<!-- 其中 class="blockquote-center" 是必须的 -->
-<blockquote class="blockquote-center">blah blah blah</blockquote>
-
-<!-- 标签别名 -->
-<blockquote class="blockquote-center">
-<p>blah blah blah </p>
-
+<h3 id="与群友聊天"><a href="#与群友聊天" class="headerlink" title="与群友聊天"></a>与群友聊天</h3><p> 在上午第二节课与mihoyo招聘群里面的两个群友申请好友;<br> 其中一个现在在大庆上学, 他有两个同学和我在一个学校但是不同的系别。和我一样, 他也是初四开始自学计算机相关的知识, 希望能一起努力进入mihoyo;<br> 另一个群友交流的不多, 但是他是想做游戏开发, 目前正在学unity, 跟我说可以在b站上看一下mihoyo的招聘宣讲;</p>
+<h3 id="中午吃过饭"><a href="#中午吃过饭" class="headerlink" title="中午吃过饭"></a>中午吃过饭</h3><p>在下课去食堂的路上我一直在想找实习的事情, 吃饭的时候也一直在想, 最后买完东西走到宿舍一想, 还是得抓紧写项目, 所以开了这个这个系列的日记(坑)。</p>
+<h3 id="以下是我定下的小目标"><a href="#以下是我定下的小目标" class="headerlink" title="以下是我定下的小目标"></a>以下是我定下的小目标</h3><blockquote>
+<p>希望能在一年期间内完成的任务</p>
 </blockquote>
-]]></content>
+<ul>
+<li>vue+springboot实现一个完备的信息管理系统;</li>
+<li>使用<a href="https://github.com/SocialSisterYi/bilibili-API-collect">https://github.com/SocialSisterYi/bilibili-API-collect</a>这个项目中的api开发一个windows下的应用或者仿照<a href="https://www.bilibili.com/">https://www.bilibili.com</a>自己写一个vue的项目;</li>
+<li>学会使用python, 通过查看文档并实现一些自动化功能;</li>
+<li>多使用vim, 不只会使用基础的命令, 其他命令也都要熟悉;</li>
+<li>深入了解linux, 学会shell并写一些脚本用来监控服务器状态;</li>
+<li>深入了解网路相关的知识, 比如说route list以及proxy;</li>
+</ul>
+<h2 id="希望自己不会半途而废"><a href="#希望自己不会半途而废" class="headerlink" title="希望自己不会半途而废"></a>希望自己不会半途而废</h2>]]></content>
       <categories>
-        <category>学习</category>
+        <category>日记</category>
       </categories>
       <tags>
-        <tag>markdown</tag>
+        <tag>找工作</tag>
       </tags>
   </entry>
   <entry>
@@ -81,6 +70,47 @@
       </tags>
   </entry>
   <entry>
+    <title>一些md写作技巧</title>
+    <url>/posts/250b5c3b/</url>
+    <content><![CDATA[<div class="note default"><p>md的一些写作方式</p>
+</div>
+
+<a id="more"></a>
+
+<div class="note default"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+<div class="note primary"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+<div class="note success"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+<div class="note info"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+<div class="note warning"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+<div class="note danger"><p><strong>Content (md partial supported)</strong> </p>
+</div>
+
+
+<p><font size=6 > 这里输入文字，自定义大小 </font></p>
+<p><font color="#123456"> 这里输入文字，自定义颜色的字体 </font></p>
+<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 -->
+<!-- 其中 class="blockquote-center" 是必须的 -->
+<blockquote class="blockquote-center">blah blah blah</blockquote>
+
+<!-- 标签别名 -->
+<blockquote class="blockquote-center">
+<p>blah blah blah </p>
+
+</blockquote>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>靴の音を、响かせて、その手を</title>
     <url>/posts/f771e007/</url>
     <content><![CDATA[<h2 id="作词-凋叶棕-歌手-めらみぽっぷ-专辑-彩"><a href="#作词-凋叶棕-歌手-めらみぽっぷ-专辑-彩" class="headerlink" title="作词:凋叶棕 歌手:めらみぽっぷ 专辑:彩"></a>作词:凋叶棕 歌手:めらみぽっぷ 专辑:彩</h2><ul>
@@ -107,23 +137,10 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>网易云</category>
+        <category>音乐分享</category>
       </categories>
       <tags>
         <tag>网易云</tag>
-        <tag>凋叶棕</tag>
-        <tag>彩</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>找工作的准备(一)</title>
-    <url>/posts/824df8ce/</url>
-    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>找工作</category>
-      </categories>
-      <tags>
-        <tag>找工作</tag>
       </tags>
   </entry>
 </search>
